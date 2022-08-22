@@ -1,1 +1,1 @@
-HELLO: '&eСервер &8| &fДобро пожаловать, $playername'
+HELLO: '&eСервер &8| &fДобро пожаловать, $playername &8| &fУровень: &a$playerlevel &8| &fРежим игры: &a$playergm'
