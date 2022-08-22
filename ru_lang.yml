@@ -1,3 +1,3 @@
 HELLO: '&eСервер &8| &fДобро пожаловать, $playername &8| &fУровень: &a$playerlevel &8| &fРежим игры: &a$playergm'
-HELLO_TITLE: '&e&lKrutikovProject'
-HELLO_SUBTITLE: '&eДобро пожаловать.'
+HELLO_TITLE: '§e§lKrutikovProject'
+HELLO_SUBTITLE: '§eДобро пожаловать.'
