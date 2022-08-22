@@ -1,1 +1,2 @@
 HELLO: '&eСервер &8| &fДобро пожаловать, $playername &8| &fУровень: &a$playerlevel &8| &fРежим игры: &a$playergm'
+GAMEMODE_CHANGE: '&eРежим игры &8| &fВаш режим игры сменен на $playergm'
