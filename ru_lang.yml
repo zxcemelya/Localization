@@ -1,4 +1,4 @@
 HELLO: '&eСервер &8| &fДобро пожаловать, $playername &8| &fУровень: &a$playerlevel &8| &fРежим игры: &a$playergm'
 HELLO_TITLE: '§e§lKrutikovProject'
 HELLO_SUBTITLE: '§eДобро пожаловать.'
-DEATH: '&eСмерть &8| &f$playername, Вы умерли!'
+DEATH: '&eСмерть &8| &f$playername умер, сожалеем!'
