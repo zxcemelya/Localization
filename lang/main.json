@@ -2,5 +2,8 @@
     "HELLO_MESSAGE": {
         "ru": "§eСервер §8| §fДобро пожаловать, §a%s§f, как твои дела?",
         "en": "§eServer §8| §fWelcome, §a%s §f,how are you?"
+    },
+    "FM_MENU_NAME": {
+        "ru": "§8Быстрые сообщения"
     }
 }
