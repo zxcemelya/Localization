@@ -24,7 +24,7 @@
         "en": "§cServer §8| §fThis player has never joined the server"
     },
     "LAST_JOIN": {
-        "ru": "§cСервер §8| §fИгрок %s §fоффлайн, последний раз заходил §7%s §fназад",
+        "ru": "§cСервер §8| §fИгрок %s §fоффлайн, последний раз заходил §7%s§fназад",
         "en": "§cServer §8| §fPlayer %s §foffline, last logged in §7%s§fback"
     }
 }
