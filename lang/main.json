@@ -1,14 +1,14 @@
 {
     "ONLINE": {
-        "ru": "§cСервер §8| §fОнлайн проекта: §a%s",
-        "en": "§cServer §8| §fOnline: §a%s"
+        "ru": "§cСервер §8» §fОнлайн проекта: §a%s",
+        "en": "§cServer §8» §fOnline: §a%s"
     },
     "LIST_EMPTY": {
-        "ru": "§cСервер §8| §fВ сети никого нет.",
-        "en": "§cServer §8| §fNo one is online."
+        "ru": "§cСервер §8» §fВ сети никого нет.",
+        "en": "§cServer §8» §fNo one is online."
     },
     "LIST_ONLINE": {
-        "ru": "§cСервер §8| §fИгроки в сети: §a%s",
-        "en": "§cServer §8| §fOnline players: §a%s"
+        "ru": "§cСервер §8» §fИгроки в сети: §a%s",
+        "en": "§cServer §8» §fOnline players: §a%s"
     }
 }
