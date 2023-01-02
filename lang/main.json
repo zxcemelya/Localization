@@ -1,7 +1,7 @@
 {
     "ONLINE": {
         "ru": "§cСервер §8» §fОнлайн проекта: §a%s",
-        "en": "§cServer §8» §fOnline: §a%s"
+        "en": "§cServer §8» §fOnline project: §a%s"
     },
     "LIST_EMPTY": {
         "ru": "§cСервер §8» §fВ сети никого нет.",
