@@ -1,26 +1,14 @@
 {
-    "HELLO_MESSAGE": {
-        "ru": "§eСервер §8| §fДобро пожаловать, §a%s§f, как твои дела?",
-        "en": "§eServer §8| §fWelcome, §a%s §f,how are you?"
+    "ONLINE": {
+        "ru": "§cСервер §8| §fОнлайн проекта: §a%s",
+        "en": "§cServer §8| §fOnline: §a%s"
     },
-    "FM_MENU_NAME": {
-        "ru": "§8Быстрые сообщения"
+    "LIST_EMPTY": {
+        "ru": "§cСервер §8| §fВ сети никого нет.",
+        "en": "§cServer §8| §fNo one is online."
     },
-    "FM_MAJOR_NAME": {
-        "ru": "§aМажор"
-    },
-    "FM_MAJOR": {
-        "ru": "§aМажор ┎(ಠ‿ಠ)┚"
-    },
-    "FM_MAJOR_LORE": {
-        "ru": [
-            "§7Сообщение: §a%s",
-            "",
-            "§aДоступно!",
-            "§eНажмите, чтобы отправить"
-        ]
-    },
-    "FM_NO_PERM": {
-        "ru": "§cОшибка, быстрые сообщения Вам недоступны"
+    "LIST_ONLINE": {
+        "ru": "§cСервер §8| §fИгроки в сети: §a%s",
+        "en": "§cServer §8| §fOnline players: §a%s"
     }
 }
