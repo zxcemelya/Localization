@@ -25,6 +25,6 @@
     },
     "LAST_JOIN": {
         "ru": "§cСервер §8| §fИгрок %s §fоффлайн, последний раз заходил §7%s §fназад",
-        "en": "§cServer §8| §fPlayer %s §foffline, last logged in §7%s §fback"
+        "en": "§cServer §8| §fPlayer %s §foffline, last logged in §7%s§fback"
     }
 }
