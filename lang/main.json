@@ -10,5 +10,21 @@
     "LIST_ONLINE": {
         "ru": "§cСервер §8» §fИгроки в сети: §a%s",
         "en": "§cServer §8» §fOnline players: §a%s"
+    },
+    "FIND_USAGE": {
+        "ru": "§cОшибка, используйте /find <ник игрока>",
+        "en": "§cError, use /find <player name>"
+    },
+    "FIND": {
+        "ru": "§cСервер §8| §fИгрок %s §fнаходится на сервере §a%s",
+        "en": "§cServer §8| §fPlayer %s §fis on server §a%s"
+    },
+    "NULL": {
+        "ru": "§cСервер §8| §fДанный игрок никогда не заходил на сервер",
+        "en": "§cServer §8| §fThis player has never joined the server"
+    },
+    "LAST_JOIN": {
+        "ru": "§cСервер §8| §fИгрок %s §fоффлайн, последний раз заходил §7%s §fназад",
+        "en": "§cServer §8| §fPlayer %s §foffline, last logged in §7%s §fback"
     }
 }
