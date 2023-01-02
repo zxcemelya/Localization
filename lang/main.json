@@ -16,8 +16,8 @@
         "en": "§cError, use /find <player name>"
     },
     "FIND": {
-        "ru": "§cСервер §8| §fИгрок %s §fнаходится на сервере §a%s",
-        "en": "§cServer §8| §fPlayer %s §fis on server §a%s"
+        "ru": "§cСервер §8| §fИгрок %s §fнаходится на сервере §a%s§a",
+        "en": "§cServer §8| §fPlayer %s §fis on server §a%s§a"
     },
     "NULL": {
         "ru": "§cСервер §8| §fДанный игрок никогда не заходил на сервер",
