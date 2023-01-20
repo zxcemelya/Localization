@@ -1,30 +1,30 @@
-1{
-    "ONsLINE": {123e1
+{
+    "ONsLINE": {
         "ru": "§cСервер §8» §fОнлайн проекта: §a%s",
         "en": "§cServer §8» §fOnline project: §a%s"
-    },1
-    1"LIST_EMPTY": {1
+    },
+    "LIST_EMPTY": {
         "ru": "§cСервер §8» §fВ сети никого нет.",
         "en": "§cServer §8» §fNo one is online."
-    },1
-    "LIST_ONLINE": {1
+    },
+    "LIST_ONLINE": {
         "ru": "§cСервер §8» §fИгроки в сети: §a%s",
         "en": "§cServer §8» §fOnline players: §a%s"
-    },1
-    1"FIND_USAGE": {1
+    },
+    "FIND_USAGE": {
         "ru": "§cОшибка, используйте /find <ник игрока>",
         "en": "§cError, use /find <player name>"
     },
-    1"FIND": {211234123
+    "FIND": {
         "ru": "§cСервер §8| §fИгрок %s §fнаходится на сервере §a%s§a",
         "en": "§cServer §8| §fPlayer %s §fis on server §a%s§a"
-    1},
-    1"NULL": {
+    },
+    "NULL": {
         "ru": "§cСервер §8| §fДанный игрок никогда не заходил на сервер",
         "en": "§cServer §8| §fThis player has never joined the server"
-    },1
-    1"LAST_JOIN": {
-        "1ru": "§cСервер §8| §fИгрок %s §fоффлайн, последний раз заходил §7%s§fназад",
-        1"en": "§cServer §8| §fPlayer %s §foffline, last logged in §7%s§fback"
-    }1
-}1
+    },
+    "LAST_JOIN": {
+        "ru": "§cСервер §8| §fИгрок %s §fоффлайн, последний раз заходил §7%s§fназад",
+        "en": "§cServer §8| §fPlayer %s §foffline, last logged in §7%s§fback"
+    }
+}
